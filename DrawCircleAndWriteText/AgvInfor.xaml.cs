@@ -1,5 +1,4 @@
-﻿using RP.Framework.EntityFrameworkBase;
-using RP.Framework.WPF.DependencyInjection;
+﻿
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
